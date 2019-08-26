@@ -1,0 +1,8 @@
+﻿  MultiThreading.cpp
+c:\users\ajitw\desktop\win32sdk_2019\assignments\threading\threading\multithreading.cpp(52): warning C4101: 'hdc': unreferenced local variable
+c:\users\ajitw\desktop\win32sdk_2019\assignments\threading\threading\multithreading.cpp(51): warning C4101: 'ps': unreferenced local variable
+c:\users\ajitw\desktop\win32sdk_2019\assignments\threading\threading\multithreading.cpp(50): warning C4101: 'rect': unreferenced local variable
+  Generating code
+  Finished generating code
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Threading.vcxproj -> C:\Users\ajitw\Desktop\Win32SDK_2019\Assignments\Threading\Release\Threading.exe
